@@ -5,7 +5,13 @@
 - Jika limit ApiKey OpenAI sudah habis silahkan buat apikey yang barunya [Disini](https://beta.openai.com/account/api-keys)
 - Ganti ApiKey OpenAI pada file [sansekai.js](https://github.com/tahaluindo/Wa-OpenAI/blob/392f5cfadc71f01281434acd215544ccfb18023f/sansekai.js#L67)
 
-## Install
+## Apikey Gratis
+- org-XY7tvMhByFMbnaHiVRXoQjab
+- org-y8b1gmfkEMElgOyjjRG1s5PX
+- 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
+- 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
+
+## Installer
 **Install on RDP/Windows ✅**
 
 Install [NodeJS](https://nodejs.org/en/download/)
