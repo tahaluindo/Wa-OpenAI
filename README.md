@@ -11,7 +11,7 @@
 Install [NodeJS](https://nodejs.org/en/download/)
  dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
 ```bash
-$ git clone https://github.com/Sansekai/Wa-OpenAI
+$ git clone https://github.com/tahaluindo/Wa-OpenAI
 $ cd Wa-OpenAI
 $ npm install
 $ node index.js
@@ -22,7 +22,7 @@ Silahkan install manual ```node_modules``` terlebih dahulu, karena di termux saa
 <br>Link ```node_modules```: [Klik Disini](https://drive.google.com/file/d/1o_IJMZTIm8Z95Rkmt6EdeHh_tDwJ-5IR/view?usp=sharing)
 ```bash
 $ pkg install git nodejs -y
-$ git clone https://github.com/Sansekai/Wa-OpenAI
+$ git clone https://github.com/tahaluindo/Wa-OpenAI
 $ cd Wa-OpenAI
 ```
 Sesusah menginstall file node_modules, silahkan extract file ```node_modules.zip``` dan taruh di folder Wa-OpenAI.
@@ -33,10 +33,10 @@ $ node index.js
 ```
 
 ## Donate
-[Saweria](https://saweria.co/sansekai)
+[Saweria](https://saweria.co/anonsecteam)
 
 ## License
-[MIT License](https://github.com/Sansekai/Wa-OpenAI/blob/main/LICENSE)
+[MIT License](https://github.com/tahaluindo/Wa-OpenAI/blob/main/LICENSE)
 
 Copyright (c) 2022 M Yusril
 
