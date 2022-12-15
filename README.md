@@ -3,7 +3,7 @@
 ***WhatsApp Bot Broadcast NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 ## Get & Change OpenAI ApiKey
 - Jika limit ApiKey OpenAI sudah habis silahkan buat apikey yang barunya [Disini](https://beta.openai.com/account/api-keys)
-- Ganti ApiKey OpenAI pada file [sansekai.js](https://github.com/Sansekai/Wa-OpenAI/blob/63f66a1fa81b65d33b6aafb4937aa57d6bea6242/sansekai.js#L68)
+- Ganti ApiKey OpenAI pada file [sansekai.js](https://github.com/tahaluindo/Wa-OpenAI/blob/392f5cfadc71f01281434acd215544ccfb18023f/sansekai.js#L67)
 
 ## Install
 **Install on RDP/Windows ✅**
